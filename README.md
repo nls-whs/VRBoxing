@@ -4,6 +4,10 @@ _Unreal Engine version_:  4.25.4 <br/>
 _Device tested_:  Oculus Quest 1 and 2 <br/>
 _Tested on platforms_:  UE4 Editor, Windows 64 bit, Android ASTC
 
+# Introduction
+
+This game or proof of concept has been developed as part of [Next level Sports](https://hci.w-hs.de/research/projects/nextlevelsports/) project. The main goal is to motivate users to do more movement through full-body sports such as Boxing. It has been developed for portable VR headset such as Oculus Quest that allows the user to move around freely.
+
 # Gameplay
 
 ## Warm-up
@@ -66,10 +70,7 @@ Polygon assets pack from Syntystore (Fantasy Kingdom, Battle Royale, Dungeons, F
 3D Model creation (Dumbbell, Barbell, Skipping rope, Punching bag): Tobias Winter <br/>
 For all asset related queries, contact Thomas Kollakowsky (thomas.kollakowsky@w-hs.de) <br/>
 
-To compile the project successfully, download all assets mentioned above.
+To compile the project successfully, download all assets mentioned above. All paid assets have been removed from this project for the purpose of copyright.
 
 ### Developers: <br/>
 [Asma Rafi](https://github.com/asmarf6), [Christopher Bussick](https://github.com/cbussick), Julien Förderer <br/>
-
-
-This game or proof of concept has been developed as part of [Next level Sports](https://hci.w-hs.de/research/projects/nextlevelsports/) project. All paid assets have been removed from this project for the purpose of copyright.
